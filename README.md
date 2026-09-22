@@ -2,7 +2,7 @@
 
 A discrete 8-bit custom CPU datapath implementation featuring a shared bus, dedicated register transfer logic, cascaded ALUs (**74HC181**), static RAM (**6116**), and a 7-segment output display (**4543**), simulated using **Proteus Professional**.
 
-![8-Bit CPU Schematic](8Bit_CPU_Schematic.jpg)
+![8-Bit CPU Schematic](8Bit_CPU_Schematic.png)
 
 ---
 
